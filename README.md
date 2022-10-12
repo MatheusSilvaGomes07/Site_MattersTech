@@ -146,6 +146,6 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 Este projeto esta sobe a licença [MIT](./LICENSE).
 
-Feito com dedicação por VictorSilva15, LeonardoPaschoaBraga16,  MatheusSilvaGomesEtec, kau-a, Lucas-Passos-Silva
+Feito com dedicação por VictorSilva15, LeonardoPaschoaBraga16,  MatheusSilvaGomes07, kau-a, Lucas-Passos-Silva
 
 ---
